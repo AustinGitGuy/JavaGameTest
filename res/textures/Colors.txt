@@ -1,0 +1,8 @@
+Grass- 00ff00
+Flowers- ffff00
+Small Rocks- 7f7f00
+Water- 0000ff
+Stones- dfdfdf
+Walls- 6f4e37
+Floor- ffffff
+Roof- 38281c
